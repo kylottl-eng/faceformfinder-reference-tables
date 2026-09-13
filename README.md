@@ -13,6 +13,4 @@ The data files retain the caution in their corresponding guides: consumer and in
 
 For the interactive face-shape tool and the full explanatory pages, visit [Face Form Finder](https://faceformfinder.com/).
 
-## Files
-
-Every table is available as both `*.csv` and `*.md`. File names match the related page slug so the page and reusable table can be connected without relying on a brand colour card, image, or proprietary chart.
+Unless a file states otherwise, these reference tables are dedicated to the public domain under [CC0 1.0 Universal](LICENSE).
