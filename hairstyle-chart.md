@@ -1,0 +1,16 @@
+# Hairstyle Chart
+
+This table is extracted from the corresponding Face Form Finder page for reuse as a plain-text reference. Read the accompanying explanation at [faceformfinder.com/hairstyle-chart.html](https://faceformfinder.com/hairstyle-chart.html).
+
+| Hairstyle name | What it looks like | Usual length band | What to say to a stylist | Related site page |
+| --- | --- | --- | --- | --- |
+| Pixie cut | A close, short cut with visible shape around the crown and sides. | Cropped short. | “I want a pixie with a clear short outline; show me where the longest top section will sit before cutting.” | Hair length chart for your own body landmark |
+| Bixie | A short cut that sits between a pixie and a bob, with more visible length than a close crop. | Short to around the jaw area. | “I want a bixie: shorter than a bob but with enough length to read as a soft shape, not a close crop.” | Hair length chart for your own body landmark |
+| Bob | A compact outline with the ends cut to form one clear perimeter. | Usually around the jaw area. | “I want a bob whose visible ends meet my own jaw area; confirm the endpoint dry before removing length.” | Hair length chart for your own body landmark |
+| Lob | A longer bob with a compact outline that extends below the jaw. | Usually around the collarbone band. | “I want a lob, with the visible ends landing around my own collarbone rather than a generic length.” | Hair length chart for your own body landmark |
+| Blunt cut | The ends are kept at one strong, even-looking perimeter rather than visibly stepped layers. | Can be short, medium, or long. | “Keep one clean blunt perimeter at the length we confirm, without visible stepped layers through the ends.” | Hair length chart for your own body landmark |
+| Layered cut | Different sections finish at different visible levels, creating a less uniform outline. | Often medium to long, but the name does not set the length by itself. | “I want visible layers, but first confirm the longest endpoint and show me where the shorter sections will begin.” | Hair length chart for your own body landmark |
+| Shag | A layered cut with a deliberately broken-up outline and visible movement through several sections. | Can run from short to long. | “I want a shag with an intentionally broken-up layered outline; show me the front, side, and back shape before cutting.” | Different face shapes index |
+| Wolf cut | A more contrast-heavy layered silhouette, with shorter upper sections and a longer visible back. | Usually medium to long. | “I want a wolf-cut silhouette with connected upper and lower sections; confirm how long the back will remain.” | Different face shapes index |
+| Butterfly cut | A long layered cut with shorter face-adjacent sections separated from a longer overall outline. | Usually long. | “I want a butterfly cut with a long base length; point out the shorter front sections before you start.” | Hair length chart for your own body landmark |
+| U-cut or V-cut | A long perimeter that curves gently into a U or comes to a more visible centre point in a V. | Usually long. | “Keep my longest base length and cut the back perimeter into a U shape or a V point; show the outline from behind first.” | Hair length chart for your own body landmark |

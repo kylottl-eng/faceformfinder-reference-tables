@@ -1,0 +1,15 @@
+# Hair Length Chart
+
+This table is extracted from the corresponding Face Form Finder page for reuse as a plain-text reference. Read the accompanying explanation at [faceformfinder.com/hair-length-chart.html](https://faceformfinder.com/hair-length-chart.html).
+
+| Length name | Where it ends on your body | Your distance from hairline | Your inches | What to say to a stylist |
+| --- | --- | --- | --- | --- |
+| Crop / pixie | Above the jawline; it does not reach the jaw. | Your cm, measured | — | “Keep it above my jawline; I do not want any length resting on my jaw.” |
+| Jaw-length bob | At your jawline. | Your cm, measured | — | “Cut it to meet my jawline when dry, using my own jaw as the endpoint.” |
+| Collarbone length / lob | At your collarbone. | Your cm, measured | — | “I want the visible ends to land at my collarbone, not at a generic lob length.” |
+| Shoulder length | At the shoulder point. | Your cm, measured | — | “Let the ends touch my shoulder point when my hair is dry and in my usual part.” |
+| Underarm length | At the underarm / armpit level. | Your cm, measured | — | “Keep the longest ends at my underarm level; show me the placement from the front and back.” |
+| Below-bust length | At the lower edge of your bust. | Your cm, measured | — | “I want the longest layer to land at the lower edge of my bust on my own frame.” |
+| Waist length | At your natural waistline. | Your cm, measured | — | “Cut the longest ends to my waistline; please check it against my posture, not a standard number.” |
+| Hip length | At your hip bone. | Your cm, measured | — | “I want the length to reach my hip bone when dry. Please use my body landmark as the guide.” |
+| Tailbone length | At your tailbone. | Your cm, measured | — | “Keep the longest ends at my tailbone. Confirm the point before removing length.” |
