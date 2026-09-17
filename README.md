@@ -8,6 +8,8 @@ This repository contains plain-text CSV and Markdown versions of the comparison 
 - Hair length, pattern, texture, named styles, colour levels, and clipper guards
 - Eye, nose, lip, and skin-tone observation labels
 - Haircut directions by working face-shape label
+- Per-face-shape measurement charts under `charts/` (eyeglass frame sizes by brand and model with retailer source URLs, style and bangs recommendations by face shape), with `charts-index.csv` mapping each chart file to the page it appears on
+- How-to-measure guidance for each reading (`face-shape-measurement-methods.csv`), including tape placement and the measurement mistakes each published guide warns about
 
 The data files retain the caution in their corresponding guides: consumer and industry labels are not authority-issued classifications, and brand-specific systems should be read against their own documentation.
 
